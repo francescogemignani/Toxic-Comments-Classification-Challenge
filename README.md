@@ -1,4 +1,4 @@
-# Toxic-Comments-Multilabel-Classification
+# Toxic-Comments-Classification-Challenge
 ## Project for Text Analytics course @ University of Pisa
 
 <img width = 400px src="https://miro.medium.com/max/1094/1*5Yd3VGmaVSYhDPwsnRhH6g.png">  <img width=200px src="https://www.plan4res.eu/wp-content/uploads/2018/02/University-of-Pisa-Italy.png" />
